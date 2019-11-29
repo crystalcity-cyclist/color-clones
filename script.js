@@ -1,3 +1,3 @@
-function cliker!() {
+function cliker() {
 alert("he he! that tikles")
 }
